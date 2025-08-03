@@ -6,7 +6,7 @@ This project contains a Power BI dashboard designed to explore customer churn in
 
 ## 📊 Dashboard Overview
 
-![Dashboard Overview](https://github.com/PhilipOklu/bank-churn-dashboard-v2/blob/main/Capture.JPG?raw=true)
+![Dashboard Overview]Capture.JPG
 
 ---
 
