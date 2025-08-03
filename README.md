@@ -6,7 +6,7 @@ This project contains a Power BI dashboard designed to explore customer churn in
 
 ## 📊 Dashboard Overview
 
-![Dashboard Overview]Capture.JPG
+![Dashboard Overview](Capture.JPG)
 
 ---
 
